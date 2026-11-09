@@ -18,9 +18,7 @@ I believe in learning by building, experimenting with new technologies, and cont
 
 **Programming Languages**
 - Java
-- Python
 - C
-- C++
 
 **Frontend Development**
 - HTML5
@@ -35,7 +33,6 @@ I believe in learning by building, experimenting with new technologies, and cont
 
 **Databases**
 - MySQL
-- SQLite
 - MongoDB
 
 **Tools & Technologies**
@@ -47,26 +44,6 @@ I believe in learning by building, experimenting with new technologies, and cont
 
 ---
 
-### 🚀 Featured Projects
-
-**1. Gym Membership Management System**
-- Full-stack application for managing gym memberships, plans, and member records.
-- Built with React, Spring Boot, and MySQL.
-- Includes membership status tracking and an admin dashboard.
-
-**2. Quiz Management System**
-- Full-stack quiz platform with teacher and student roles.
-- Features quiz creation, submissions, results, and analytics.
-- Built using React, Spring Boot, and SQLite.
-
-**3. ATM Simulation System**
-- A C programming project simulating basic ATM operations.
-- Focuses on programming fundamentals, conditional logic, and user interaction.
-
-**4. FitMi – Calorie Counter**
-- A project focused on calorie tracking and fitness management.
-
----
 
 ### 📚 Currently Learning
 
